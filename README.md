@@ -4,7 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#SQL)
 - [Python](#Python)
 - [PowerBI](#PowerBI)
-- [Chloe's Guides](#Chloe's Guides)
+- [Certificates](#Certificates)
 ## SQL
 |Project Link|Area of Analysis|Project Description|
 |------------|----------------|-------------------|
