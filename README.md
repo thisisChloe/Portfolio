@@ -13,4 +13,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Certificates
 
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I’ve earned along the way.
+
+## Contacts
+
+- LinkedIn: @thisischloetruong (https://www.linkedin.com/in/thisischloetruong/)
+- Email: hello.chloetruong@gmail.com
 
