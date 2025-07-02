@@ -17,6 +17,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 ## Contacts
 
-- LinkedIn: [@thisischloetruong] (https://www.linkedin.com/in/thisischloetruong/)
+- LinkedIn: [*@thisischloetruong*] (https://www.linkedin.com/in/thisischloetruong/)
 - Email: hello.chloetruong@gmail.com
 
