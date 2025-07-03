@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Certificates
 
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I’ve earned along the way.
+The best way to showcase skills is by doing and sharing the job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I’ve earned along the way.
 
 - Excel Essential Training (Microsoft 365)
 - [SQL Essential Training](https://github.com/user-attachments/files/21035122/CertificateOfCompletion_SQL.Essential.Training.pdf)
