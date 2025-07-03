@@ -15,11 +15,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 The best way to showcase skills is by doing and sharing the job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I’ve earned along the way.
 
-- Excel Essential Training (Microsoft 365)
+- [Excel Essential Training (Microsoft 365)](https://github.com/user-attachments/files/21035217/CertificateOfCompletion_Excel.Essential.Training.Microsoft.365.pdf)
 - [SQL Essential Training](https://github.com/user-attachments/files/21035122/CertificateOfCompletion_SQL.Essential.Training.pdf)
 - [Power BI Essential Training (2024)](https://github.com/user-attachments/files/21035186/CertificateOfCompletion_Power.BI.Essential.Training.2024.pdf)
-- Project Management Foundations
-
+- [Project Management Foundations](https://github.com/user-attachments/files/21035216/CertificateOfCompletion_Project.Management.Foundations.pdf)
 
 ## Contacts
 
