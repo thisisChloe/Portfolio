@@ -7,9 +7,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## SQL Challenge
 |Project Link|Area of Analysis|Project Description|
 |------------|----------------|-------------------|
-|🎥 Case Study #1: Cinema	| Customer behaviour, film performance, seat utilisation| Analyse film popularity, booking patterns, underbooked screenings, and room usage to improve scheduling and customer experience.|
-|🏥 Case Study #2: Hospital	| Healthcare operations, department performance, payment behaviour| Extract insights on doctor assignments, department efficiency, appointment trends, and revenue generation across the hospital.|
-|🕵️‍♀️ SQLNoir	| Data storytelling, investigation logic, advanced joins| Narrative-driven SQL challenges where each query solves a mystery using real-world logic and multi-table relationships.|
+|[🎥 Case Study #1: Cinema](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Cinema)	| Customer behaviour, film performance, seat utilisation| Analyse film popularity, booking patterns, underbooked screenings, and room usage to improve scheduling and customer experience.|
+|[🏥 Case Study #2: Hospital](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Hospital)	| Healthcare operations, department performance, payment behaviour| Extract insights on doctor assignments, department efficiency, appointment trends, and revenue generation across the hospital.|
+|[🕵️‍♀️ SQLNoir: Solve Mysteries in the Shadows of the Database](https://github.com/thisisChloe/SQL-Challenge/tree/main/SQLNoir)	| Data storytelling, investigation logic, advanced joins| Narrative-driven SQL challenges where each query solves a mystery using real-world logic and multi-table relationships.|
 
 
 ## Power BI
