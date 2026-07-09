@@ -2,7 +2,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 ## 📚 Table of Contents
 - [SQL-Challenge](https://github.com/thisisChloe/SQL-Challenge)
-- [Python & R](#python--r)
+- [Python & R](https://github.com/thisisChloe/Python-R)
   - [Quantium Chip Analytics](#quantium-chip-analytics)
   - [Customer Churn PwC](#customer-churn-pwc)
 - [PowerBI](#PowerBI)
