@@ -13,7 +13,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |[🏥 Case Study #2: Hospital](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Hospital) | Healthcare operations, department performance, payment behaviour| Extract insights on doctor assignments, department efficiency, appointment trends, and revenue generation across the hospital.|
 |[🕵️‍♀️ SQLNoir: Solve Mysteries in the Shadows of the Database](https://github.com/thisisChloe/SQL-Challenge/tree/main/SQLNoir) | Data storytelling, investigation logic, advanced joins| Narrative-driven SQL challenges where each query solves a mystery using real-world logic and multi-table relationships.|
 
-## Quantium Chip Analytics
+## Python & R
+
+### Quantium Chip Analytics
 |Project Link|Area of Analysis|Project Description|
 |------------|----------------|-------------------|
 |[🥔 Chip Category Analysis](https://github.com/thisisChloe/quantium-chip-analytics/tree/main) | Customer segmentation, purchasing behaviour, store trial evaluation| End to end retail analytics project completed for the Quantium Data Analytics Virtual Experience, covering customer segment profiling, product and pricing analysis, and a statistically tested store trial evaluation to guide category strategy.|
