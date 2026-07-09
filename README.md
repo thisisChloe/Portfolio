@@ -4,6 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL-Challenge](https://github.com/thisisChloe/SQL-Challenge)
 - [Python & R](https://github.com/thisisChloe/quantium-chip-analytics)
   - [Quantium Chip Analytics](#quantium-chip-analytics)
+  - [Customer Churn PwC](#customer-churn-pwc)
 - [PowerBI](#PowerBI)
 - [Certificates](#Certificates)
 ## SQL Challenge
@@ -19,6 +20,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |Project Link|Area of Analysis|Project Description|
 |------------|----------------|-------------------|
 |[🥔 Chip Category Analysis](https://github.com/thisisChloe/quantium-chip-analytics/tree/main) | Customer segmentation, purchasing behaviour, store trial evaluation| End to end retail analytics project completed for the Quantium Data Analytics Virtual Experience, covering customer segment profiling, product and pricing analysis, and a statistically tested store trial evaluation to guide category strategy.|
+
+### Customer Churn PwC
+
+|Project Link|Area of Analysis|Project Description|
+|------------|-----------------|--------------------|
+|[📡 Customer Churn Analysis](https://github.com/thisisChloe/Customer-Churn-PwC)| Customer churn, revenue impact, risk scoring| Telecom customer churn case study for PwC identifying churn drivers across contract type, tenure, and service usage, quantifying revenue at risk, and building a risk score to flag high-risk active customers.|
 
 ## Power BI
 
