@@ -2,15 +2,20 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 ## 📚 Table of Contents
 - [SQL-Challenge](https://github.com/thisisChloe/SQL-Challenge)
+- [Quantium Chip Analytics](#quantium-chip-analytics)
 - [PowerBI](#PowerBI)
 - [Certificates](#Certificates)
 ## SQL Challenge
 |Project Link|Area of Analysis|Project Description|
 |------------|----------------|-------------------|
-|[🎥 Case Study #1: Cinema](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Cinema)	| Customer behaviour, film performance, seat utilisation| Analyse film popularity, booking patterns, underbooked screenings, and room usage to improve scheduling and customer experience.|
-|[🏥 Case Study #2: Hospital](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Hospital)	| Healthcare operations, department performance, payment behaviour| Extract insights on doctor assignments, department efficiency, appointment trends, and revenue generation across the hospital.|
-|[🕵️‍♀️ SQLNoir: Solve Mysteries in the Shadows of the Database](https://github.com/thisisChloe/SQL-Challenge/tree/main/SQLNoir)	| Data storytelling, investigation logic, advanced joins| Narrative-driven SQL challenges where each query solves a mystery using real-world logic and multi-table relationships.|
+|[🎥 Case Study #1: Cinema](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Cinema) | Customer behaviour, film performance, seat utilisation| Analyse film popularity, booking patterns, underbooked screenings, and room usage to improve scheduling and customer experience.|
+|[🏥 Case Study #2: Hospital](https://github.com/thisisChloe/SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Hospital) | Healthcare operations, department performance, payment behaviour| Extract insights on doctor assignments, department efficiency, appointment trends, and revenue generation across the hospital.|
+|[🕵️‍♀️ SQLNoir: Solve Mysteries in the Shadows of the Database](https://github.com/thisisChloe/SQL-Challenge/tree/main/SQLNoir) | Data storytelling, investigation logic, advanced joins| Narrative-driven SQL challenges where each query solves a mystery using real-world logic and multi-table relationships.|
 
+## Quantium Chip Analytics
+|Project Link|Area of Analysis|Project Description|
+|------------|----------------|-------------------|
+|[🥔 Chip Category Analysis](https://github.com/thisisChloe/quantium-chip-analytics/tree/main) | Customer segmentation, purchasing behaviour, store trial evaluation| End to end retail analytics project completed for the Quantium Data Analytics Virtual Experience, covering customer segment profiling, product and pricing analysis, and a statistically tested store trial evaluation to guide category strategy.|
 
 ## Power BI
 
@@ -27,4 +32,3 @@ The best way to showcase skills is by doing and sharing the job done but sometim
 
 - LinkedIn: [@thisischloetruong](https://www.linkedin.com/in/thisischloetruong/)
 - Email: hello.chloetruong@gmail.com
-
