@@ -2,7 +2,8 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 ## 📚 Table of Contents
 - [SQL-Challenge](https://github.com/thisisChloe/SQL-Challenge)
-- [Quantium Chip Analytics](#quantium-chip-analytics)
+- Python & R
+  - [Quantium Chip Analytics](#quantium-chip-analytics)
 - [PowerBI](#PowerBI)
 - [Certificates](#Certificates)
 ## SQL Challenge
@@ -21,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Certificates
 
-The best way to showcase skills is by doing and sharing the job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I’ve earned along the way.
+The best way to showcase skills is by doing and sharing the job done but sometimes certificates appear to be as an indirect result. Below is a list of certifications I've earned along the way.
 
 - [Excel Essential Training (Microsoft 365)](https://github.com/user-attachments/files/21035217/CertificateOfCompletion_Excel.Essential.Training.Microsoft.365.pdf)
 - [SQL Essential Training](https://github.com/user-attachments/files/21035122/CertificateOfCompletion_SQL.Essential.Training.pdf)
