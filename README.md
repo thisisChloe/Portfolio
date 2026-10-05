@@ -2,10 +2,11 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📚 Table of Contents
-- [SQL-Challenge](https://github.com/thisisChloe/SQL-Challenge)
-- [Python & R](https://github.com/thisisChloe/Python-R)
-- [PowerBI](#PowerBI)
-- [Certificates](#Certificates)
+- [SQL Challenge](#sql-challenge)
+- [Python & R](#python--r)
+- [Power BI](#power-bi)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## SQL Challenge
 |Project Link|Area of Analysis|Project Description|
