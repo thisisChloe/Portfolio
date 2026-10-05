@@ -22,6 +22,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |[📡 Customer Churn Analysis](https://github.com/thisisChloe/Customer-Churn-PwC) | Customer churn, revenue impact, risk scoring| Telecom customer churn case study for PwC identifying churn drivers across contract type, tenure, and service usage, quantifying revenue at risk, and building a risk score to flag high-risk active customers.|
 
 ## Power BI
+|Project Link|Area of Analysis|Project Description|
+|------------|----------------|-------------------|
+|[💳 Consumer Financial Complaints](https://github.com/thisisChloe/PowerBI/tree/main/Consumer%20Financial%20Complaints) | Complaint trends, root-cause drivers, company benchmarking| Interactive Power BI dashboard analysing 62K+ CFPB consumer complaints (2017–2023) to track complaint volume and on-time response rates, pinpoint the products and issues driving complaints, benchmark companies against market share, and compare resolution outcomes across submission channels.|
 
 ## Certificates
 
